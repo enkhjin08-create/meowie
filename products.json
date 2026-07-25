@@ -1,8 +1,8 @@
 {
   "products": [
     {
-      "title": "Хар хатгамалтай kitty",
-      "price": "42,000₮",
+      "title": "Ð¥Ð°Ñ ÑÐ°ÑÐ³Ð°Ð¼Ð°Ð»ÑÐ°Ð¹ kitty",
+      "price": "42,000â®",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416570625.jpg",
       "desc": "",
       "itemImg": "",
@@ -11,8 +11,8 @@
       "items": []
     },
     {
-      "title": "Цагаан хатгамалтай kitty",
-      "price": "42000₮",
+      "title": "Ð¦Ð°Ð³Ð°Ð°Ð½ ÑÐ°ÑÐ³Ð°Ð¼Ð°Ð»ÑÐ°Ð¹ kitty",
+      "price": "42000â®",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416521533.jpg",
       "desc": "",
       "itemImg": "",
@@ -21,8 +21,8 @@
       "items": []
     },
     {
-      "title": "Ягаан хатгамалтай kitty",
-      "price": "42,000₮",
+      "title": "Ð¯Ð³Ð°Ð°Ð½ ÑÐ°ÑÐ³Ð°Ð¼Ð°Ð»ÑÐ°Ð¹ kitty",
+      "price": "42,000â®",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416670218.jpg",
       "desc": "",
       "itemImg": "",
@@ -31,7 +31,7 @@
       "items": []
     },
     {
-      "title": "Хар angel мууртай цүнх",
+      "title": "Ð¥Ð°Ñ angel Ð¼ÑÑÑÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "42000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417161492.jpg",
       "desc": "",
@@ -41,7 +41,7 @@
       "items": []
     },
     {
-      "title": "Шар angel мууртай цүнх",
+      "title": "Ð¨Ð°Ñ angel Ð¼ÑÑÑÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "42000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417266155.jpg",
       "desc": "",
@@ -51,7 +51,7 @@
       "items": []
     },
     {
-      "title": "Ягаан angel мууртай цүнх",
+      "title": "Ð¯Ð³Ð°Ð°Ð½ angel Ð¼ÑÑÑÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "42000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417372239.jpg",
       "desc": "",
@@ -61,7 +61,7 @@
       "items": []
     },
     {
-      "title": "цагаан саарал судалтай цүнх",
+      "title": "ÑÐ°Ð³Ð°Ð°Ð½ ÑÐ°Ð°ÑÐ°Ð» ÑÑÐ´Ð°Ð»ÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417552408.jpg",
       "desc": "",
@@ -71,7 +71,7 @@
       "items": []
     },
     {
-      "title": "хар судалтай цүнх",
+      "title": "ÑÐ°Ñ ÑÑÐ´Ð°Ð»ÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418387824.jpg",
       "desc": "",
@@ -81,7 +81,7 @@
       "items": []
     },
     {
-      "title": "улаан судалтай цүнх ",
+      "title": "ÑÐ»Ð°Ð°Ð½ ÑÑÐ´Ð°Ð»ÑÐ°Ð¹ ÑÒ¯Ð½Ñ ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418493768.jpg",
       "desc": "",
@@ -91,7 +91,7 @@
       "items": []
     },
     {
-      "title": "faux leather цүнх ",
+      "title": "faux leather ÑÒ¯Ð½Ñ ",
       "price": "35000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418558135.jpg",
       "desc": "",
@@ -101,7 +101,7 @@
       "items": []
     },
     {
-      "title": "цагаан kitty одтой цүнх",
+      "title": "ÑÐ°Ð³Ð°Ð°Ð½ kitty Ð¾Ð´ÑÐ¾Ð¹ ÑÒ¯Ð½Ñ",
       "price": "39000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420162174.jpg",
       "desc": "",
@@ -111,7 +111,7 @@
       "items": []
     },
     {
-      "title": "улаан hello kitty цүнх",
+      "title": "ÑÐ»Ð°Ð°Ð½ hello kitty ÑÒ¯Ð½Ñ",
       "price": "40000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420465929.jpg",
       "desc": "",
@@ -121,7 +121,7 @@
       "items": []
     },
     {
-      "title": "ягаан мууртай цүнх",
+      "title": "ÑÐ³Ð°Ð°Ð½ Ð¼ÑÑÑÑÐ°Ð¹ ÑÒ¯Ð½Ñ",
       "price": "42000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783423192282.jpg",
       "desc": "",
@@ -131,7 +131,7 @@
       "items": []
     },
     {
-      "title": "хос ягаан цүнх, үүргэвч",
+      "title": "ÑÐ¾Ñ ÑÐ³Ð°Ð°Ð½ ÑÒ¯Ð½Ñ, Ò¯Ò¯ÑÐ³ÑÐ²Ñ",
       "price": "92000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428233343.jpg",
       "desc": "",
@@ -141,7 +141,7 @@
       "items": []
     },
     {
-      "title": "шар, цэнхэр хос цүнх, үүргэвч",
+      "title": "ÑÐ°Ñ, ÑÑÐ½ÑÑÑ ÑÐ¾Ñ ÑÒ¯Ð½Ñ, Ò¯Ò¯ÑÐ³ÑÐ²Ñ",
       "price": "92000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428397721.jpg",
       "desc": "",
@@ -151,7 +151,7 @@
       "items": []
     },
     {
-      "title": "шар, цагаан өнгийн цүнх",
+      "title": "ÑÐ°Ñ, ÑÐ°Ð³Ð°Ð°Ð½ Ó©Ð½Ð³Ð¸Ð¹Ð½ ÑÒ¯Ð½Ñ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428520053.jpg",
       "desc": "",
@@ -161,7 +161,7 @@
       "items": []
     },
     {
-      "title": "улаан, цагаан өнгийн цүнх",
+      "title": "ÑÐ»Ð°Ð°Ð½, ÑÐ°Ð³Ð°Ð°Ð½ Ó©Ð½Ð³Ð¸Ð¹Ð½ ÑÒ¯Ð½Ñ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428698157.jpg",
       "desc": "",
@@ -171,7 +171,7 @@
       "items": []
     },
     {
-      "title": "ягаан, цагаан өнгийн цүнх",
+      "title": "ÑÐ³Ð°Ð°Ð½, ÑÐ°Ð³Ð°Ð°Ð½ Ó©Ð½Ð³Ð¸Ð¹Ð½ ÑÒ¯Ð½Ñ",
       "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428770373.jpg",
       "desc": "",
@@ -181,7 +181,7 @@
       "items": []
     },
     {
-      "title": "Little cat цүнх",
+      "title": "Little cat ÑÒ¯Ð½Ñ",
       "price": "32000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506052842.jpg",
       "desc": "",
@@ -191,7 +191,7 @@
       "items": []
     },
     {
-      "title": " Cute бор цүнх",
+      "title": " Cute Ð±Ð¾Ñ ÑÒ¯Ð½Ñ",
       "price": "35000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506302885.jpg",
       "desc": "",
@@ -201,7 +201,7 @@
       "items": []
     },
     {
-      "title": "Kitty шаргал цүнх",
+      "title": "Kitty ÑÐ°ÑÐ³Ð°Ð» ÑÒ¯Ð½Ñ",
       "price": "33000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506471557.jpg",
       "desc": "",
@@ -211,7 +211,7 @@
       "items": []
     },
     {
-      "title": "Kitty цүнх",
+      "title": "Kitty ÑÒ¯Ð½Ñ",
       "price": "32000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506541395.jpg",
       "desc": "",
@@ -221,7 +221,7 @@
       "items": []
     },
     {
-      "title": "Kitty цүнх",
+      "title": "Kitty ÑÒ¯Ð½Ñ",
       "price": "32000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506598183.jpg",
       "desc": "",
@@ -229,42 +229,49 @@
       "itemTxt": "",
       "group": "calm",
       "items": []
+    },
+    {
+      "title": "Даавуун ягаан цүнх",
+      "price": "47000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1784950935844.jpeg",
+      "desc": "",
+      "group": "bold"
     }
   ],
   "items": [
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428861544.jpg",
-      "name": "hello kitty хар цүнх",
+      "name": "hello kitty ÑÐ°Ñ ÑÒ¯Ð½Ñ",
       "price": "23000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783429044112.jpg",
-      "name": "hello kitty ягаан цүнх",
+      "name": "hello kitty ÑÐ³Ð°Ð°Ð½ ÑÒ¯Ð½Ñ",
       "price": "23000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783505731561.jpg",
-      "name": "Hello kitty бор цүнх",
+      "name": "Hello kitty Ð±Ð¾Ñ ÑÒ¯Ð½Ñ",
       "price": "23000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506095014.jpg",
-      "name": "Жижиг цүнх",
+      "name": "ÐÐ¸Ð¶Ð¸Ð³ ÑÒ¯Ð½Ñ",
       "price": "30000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506184224.jpg",
-      "name": "Жижиг цүнх",
+      "name": "ÐÐ¸Ð¶Ð¸Ð³ ÑÒ¯Ð½Ñ",
       "price": "30000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506224127.jpg",
-      "name": "Жижиг цүнх",
+      "name": "ÐÐ¸Ð¶Ð¸Ð³ ÑÒ¯Ð½Ñ",
       "price": "30000"
     },
     {
       "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506258071.jpg",
-      "name": "Жижиг цүнх",
+      "name": "ÐÐ¸Ð¶Ð¸Ð³ ÑÒ¯Ð½Ñ",
       "price": "30000"
     }
   ]
