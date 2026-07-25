@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "title": "Хар хатгамалтай kitty",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416570625.jpg",
+      "desc": "",
+      "group": "mystic"
+    }
+  ],
+  "items": []
+}
