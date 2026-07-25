@@ -1,0 +1,271 @@
+{
+  "products": [
+    {
+      "title": "Хар хатгамалтай kitty",
+      "price": "42,000₮",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416570625.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "mystic",
+      "items": []
+    },
+    {
+      "title": "Цагаан хатгамалтай kitty",
+      "price": "42000₮",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416521533.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    },
+    {
+      "title": "Ягаан хатгамалтай kitty",
+      "price": "42,000₮",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416670218.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Хар angel мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417161492.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "mystic",
+      "items": []
+    },
+    {
+      "title": "Шар angel мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417266155.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Ягаан angel мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417372239.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "цагаан саарал судалтай цүнх",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783417552408.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    },
+    {
+      "title": "хар судалтай цүнх",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418387824.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "mystic",
+      "items": []
+    },
+    {
+      "title": "улаан судалтай цүнх ",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418493768.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "faux leather цүнх ",
+      "price": "35000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783418558135.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "цагаан kitty одтой цүнх",
+      "price": "39000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420162174.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    },
+    {
+      "title": "улаан hello kitty цүнх",
+      "price": "40000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420465929.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "ягаан мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783423192282.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "хос ягаан цүнх, үүргэвч",
+      "price": "92000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428233343.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "шар, цэнхэр хос цүнх, үүргэвч",
+      "price": "92000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428397721.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "шар, цагаан өнгийн цүнх",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428520053.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    },
+    {
+      "title": "улаан, цагаан өнгийн цүнх",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428698157.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "ягаан, цагаан өнгийн цүнх",
+      "price": "45000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428770373.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Little cat цүнх",
+      "price": "32000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506052842.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    },
+    {
+      "title": " Cute бор цүнх",
+      "price": "35000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506302885.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Kitty шаргал цүнх",
+      "price": "33000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506471557.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Kitty цүнх",
+      "price": "32000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506541395.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "bold",
+      "items": []
+    },
+    {
+      "title": "Kitty цүнх",
+      "price": "32000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506598183.jpg",
+      "desc": "",
+      "itemImg": "",
+      "itemTxt": "",
+      "group": "calm",
+      "items": []
+    }
+  ],
+  "items": [
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783428861544.jpg",
+      "name": "hello kitty хар цүнх",
+      "price": "23000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783429044112.jpg",
+      "name": "hello kitty ягаан цүнх",
+      "price": "23000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783505731561.jpg",
+      "name": "Hello kitty бор цүнх",
+      "price": "23000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506095014.jpg",
+      "name": "Жижиг цүнх",
+      "price": "30000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506184224.jpg",
+      "name": "Жижиг цүнх",
+      "price": "30000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506224127.jpg",
+      "name": "Жижиг цүнх",
+      "price": "30000"
+    },
+    {
+      "img": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506258071.jpg",
+      "name": "Жижиг цүнх",
+      "price": "30000"
+    }
+  ]
+}
