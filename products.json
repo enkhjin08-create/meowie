@@ -243,6 +243,14 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785384688636.jpeg",
       "desc": "",
       "group": "bold"
+    },
+    {
+      "title": "Пинал Kitty",
+      "price": "14000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785752050519.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
     }
   ],
   "items": [
