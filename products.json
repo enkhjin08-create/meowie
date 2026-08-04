@@ -251,6 +251,14 @@
       "desc": "",
       "group": "bold",
       "type": "цүнх"
+    },
+    {
+      "title": "Цайвар саарал мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785811779902.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "цүнх"
     }
   ],
   "items": [
