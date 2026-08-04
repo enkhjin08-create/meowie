@@ -259,6 +259,22 @@
       "desc": "",
       "group": "calm",
       "type": "цүнх"
+    },
+    {
+      "title": "Бор мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816032752.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "цүнх"
+    },
+    {
+      "title": "Цайвар цэнхэр мууртай цүнх",
+      "price": "42000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816084699.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "цүнх"
     }
   ],
   "items": [
