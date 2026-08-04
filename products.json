@@ -255,6 +255,14 @@
       "desc": "",
       "group": "bold",
       "type": "пинал"
+    },
+    {
+      "title": "Hello kitty цагаан",
+      "price": "14000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816301965.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
     }
   ],
   "items": [
