@@ -231,6 +231,30 @@
       "desc": "",
       "group": "calm",
       "type": "цүнх"
+    },
+    {
+      "title": "Hello kitty ягаан пинал",
+      "price": "26000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816216987.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
+    },
+    {
+      "title": "Hello kitty улаан пинал",
+      "price": "26000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816243753.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
+    },
+    {
+      "title": "Пинал pusheen",
+      "price": "13000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816271045.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
     }
   ],
   "items": [
