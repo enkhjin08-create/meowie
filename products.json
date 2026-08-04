@@ -287,6 +287,22 @@
       "desc": "",
       "group": "bold",
       "type": "пинал"
+    },
+    {
+      "title": "Polka dot хар пинал",
+      "price": "15000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816526765.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
+    },
+    {
+      "title": "Polka dot цагаан пинал",
+      "price": "15000",
+      "photo": "https://meowie-quiz.netlify.app/admin?fbclid=PAVERFWATeQsVwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp3osnRo1GsOW0UAU_fPn_Z2G1To4foJnPsNOrmlg1kNNbQHoNFUcUu35PU0W_aem_8nOVuxis_MwHqD_x_XV4pQ",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
     }
   ],
   "items": [
