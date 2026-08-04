@@ -345,6 +345,22 @@
       "desc": "",
       "group": "bold",
       "type": "пинал"
+    },
+    {
+      "title": "Hello kitty цагаан пинал",
+      "price": "11000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824855397.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
+    },
+    {
+      "title": "Hello kitty бор пинал",
+      "price": "11000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824885296.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
     }
   ],
   "items": [
