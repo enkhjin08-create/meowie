@@ -263,6 +263,30 @@
       "desc": "",
       "group": "calm",
       "type": "пинал"
+    },
+    {
+      "title": "Саарал пинал",
+      "price": "15000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816401125.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
+    },
+    {
+      "title": "Улаан судалтай пинал",
+      "price": "8000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816438272.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
+    },
+    {
+      "title": "Цагаан цэнхэр пинал",
+      "price": "8000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816480741.jpeg",
+      "desc": "",
+      "group": "bold",
+      "type": "пинал"
     }
   ],
   "items": [
