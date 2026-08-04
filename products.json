@@ -361,6 +361,14 @@
       "desc": "",
       "group": "bold",
       "type": "пинал"
+    },
+    {
+      "title": "Цэнхэр пинал",
+      "price": "13000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824936726.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "пинал"
     }
   ],
   "items": [
