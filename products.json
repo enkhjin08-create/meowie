@@ -238,7 +238,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816216987.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Hello kitty улаан пинал",
@@ -246,7 +247,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816243753.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Пинал pusheen",
@@ -254,7 +256,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816271045.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Hello kitty цагаан",
@@ -262,7 +265,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816301965.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Саарал пинал",
@@ -270,7 +274,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816401125.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Улаан судалтай пинал",
@@ -278,7 +283,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816438272.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Цагаан цэнхэр пинал",
@@ -294,7 +300,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816526765.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Polka dot цагаан пинал",
@@ -302,7 +309,8 @@
       "photo": "https://meowie-quiz.netlify.app/admin?fbclid=PAVERFWATeQsVwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp3osnRo1GsOW0UAU_fPn_Z2G1To4foJnPsNOrmlg1kNNbQHoNFUcUu35PU0W_aem_8nOVuxis_MwHqD_x_XV4pQ",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Polka dot цэнхэр пинал",
@@ -318,7 +326,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816936737.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Angel цагаан пинал",
@@ -326,7 +335,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785817123982.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Hello kitty хар пинал",
