@@ -171,24 +171,20 @@
       "items": []
     },
     {
-      "title": "Kitty цүнх",
+      "title": "Kitty бор цүнх",
       "price": "32000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506541395.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "bold",
-      "items": []
+      "type": "цүнх"
     },
     {
-      "title": "Kitty цүнх",
+      "title": "Kitty шаргал цүнх",
       "price": "32000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783506598183.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "calm",
-      "items": []
+      "type": "цүнх"
     },
     {
       "title": "Даавуун ягаан цүнх",
