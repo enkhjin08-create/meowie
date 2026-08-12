@@ -58,7 +58,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "bold",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "цагаан саарал судалтай цүнх",
@@ -198,7 +199,8 @@
       "price": "42000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785384688636.jpeg",
       "desc": "",
-      "group": "bold"
+      "group": "bold",
+      "hidden": true
     },
     {
       "title": "Давуун хар цүнх",
@@ -239,7 +241,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Hello kitty улаан пинал",
@@ -248,7 +250,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Пинал pusheen",
@@ -257,7 +259,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Hello kitty цагаан",
@@ -266,7 +268,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Саарал пинал",
@@ -275,7 +277,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Улаан судалтай пинал",
@@ -284,7 +286,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Цагаан цэнхэр пинал",
@@ -292,7 +294,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816480741.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Polka dot хар пинал",
@@ -301,7 +304,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Polka dot цагаан пинал",
@@ -310,7 +313,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Polka dot цэнхэр пинал",
@@ -318,7 +321,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816596279.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Angel цэнхэр пинал",
@@ -327,7 +331,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Angel цагаан пинал",
@@ -336,7 +340,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Hello kitty хар пинал",
@@ -344,7 +348,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824802278.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Hello kitty цагаан пинал",
@@ -368,7 +373,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824936726.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     }
   ],
   "items": [
