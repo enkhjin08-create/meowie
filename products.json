@@ -120,7 +120,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420465929.jpg",
       "desc": "",
       "group": "bold",
-      "type": "цүнх"
+      "type": "цүнх",
+      "hidden": true
     },
     {
       "title": "ягаан мууртай цүнх",
@@ -296,7 +297,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Polka dot хар пинал",
@@ -366,7 +367,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824885296.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Цэнхэр пинал",
