@@ -8,7 +8,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "mystic",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "Цагаан хатгамалтай kitty",
@@ -38,7 +39,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "mystic",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "Шар angel мууртай цүнх",
@@ -89,7 +91,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "bold",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "faux leather цүнх ",
@@ -116,10 +119,8 @@
       "price": "40000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783420465929.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "bold",
-      "items": []
+      "type": "цүнх"
     },
     {
       "title": "ягаан мууртай цүнх",
