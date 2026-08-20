@@ -219,7 +219,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785811779902.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "цүнх"
+      "type": "цүнх",
+      "hidden": true
     },
     {
       "title": "Бор мууртай цүнх",
@@ -227,7 +228,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816032752.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "цүнх"
+      "type": "цүнх",
+      "hidden": true
     },
     {
       "title": "Цайвар цэнхэр мууртай цүнх",
@@ -235,7 +237,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785816084699.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "цүнх"
+      "type": "цүнх",
+      "hidden": true
     },
     {
       "title": "Hello kitty ягаан пинал",
