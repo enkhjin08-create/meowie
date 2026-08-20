@@ -40,7 +40,7 @@
       "itemTxt": "",
       "group": "mystic",
       "items": [],
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Шар angel мууртай цүнх",
@@ -61,7 +61,7 @@
       "itemTxt": "",
       "group": "bold",
       "items": [],
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "цагаан саарал судалтай цүнх",
@@ -81,7 +81,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "mystic",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "улаан судалтай цүнх ",
@@ -378,6 +379,14 @@
       "group": "calm",
       "type": "пинал",
       "hidden": true
+    },
+    {
+      "title": "Ягаан kitty одтой",
+      "price": "39000",
+      "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1787230191453.jpeg",
+      "desc": "",
+      "group": "calm",
+      "type": "цүнх"
     }
   ],
   "items": [
