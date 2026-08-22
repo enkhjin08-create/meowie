@@ -2,34 +2,27 @@
   "products": [
     {
       "title": "Хар хатгамалтай kitty",
-      "price": "42,000₮",
+      "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416570625.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "mystic",
-      "items": [],
-      "hidden": true
+      "type": "цүнх"
     },
     {
       "title": "Цагаан хатгамалтай kitty",
-      "price": "42000₮",
+      "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416521533.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "calm",
-      "items": []
+      "type": "цүнх"
     },
     {
       "title": "Ягаан хатгамалтай kitty",
-      "price": "42,000₮",
+      "price": "45000",
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/product-photo-1783416670218.jpg",
       "desc": "",
-      "itemImg": "",
-      "itemTxt": "",
       "group": "bold",
-      "items": []
+      "type": "цүнх"
     },
     {
       "title": "Хар angel мууртай цүнх",
