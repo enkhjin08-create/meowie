@@ -64,7 +64,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "calm",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "хар судалтай цүнх",
