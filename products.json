@@ -116,7 +116,7 @@
       "desc": "",
       "group": "bold",
       "type": "цүнх",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "ягаан мууртай цүнх",
@@ -126,7 +126,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "bold",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "хос ягаан цүнх, үүргэвч",
@@ -166,7 +167,8 @@
       "itemImg": "",
       "itemTxt": "",
       "group": "calm",
-      "items": []
+      "items": [],
+      "hidden": true
     },
     {
       "title": "Kitty бор цүнх",
@@ -205,7 +207,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785752285665.jpeg",
       "desc": "",
       "group": "bold",
-      "type": "цүнх"
+      "type": "цүнх",
+      "hidden": true
     },
     {
       "title": "Цайвар саарал мууртай цүнх",
@@ -241,7 +244,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Hello kitty улаан пинал",
@@ -250,7 +253,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Пинал pusheen",
@@ -277,7 +280,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Улаан судалтай пинал",
@@ -313,7 +316,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Polka dot цэнхэр пинал",
@@ -340,7 +343,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Hello kitty хар пинал",
@@ -357,7 +360,8 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785824855397.jpeg",
       "desc": "",
       "group": "calm",
-      "type": "пинал"
+      "type": "пинал",
+      "hidden": true
     },
     {
       "title": "Hello kitty бор пинал",
