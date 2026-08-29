@@ -255,7 +255,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Пинал pusheen",
