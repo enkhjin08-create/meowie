@@ -201,7 +201,7 @@
       "photo": "https://cdn.jsdelivr.net/gh/enkhjin08-create/meowie@main/quiz-images/prod-1785384688636.jpeg",
       "desc": "",
       "group": "bold",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Давуун хар цүнх",
@@ -336,7 +336,7 @@
       "desc": "",
       "group": "bold",
       "type": "пинал",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Angel цагаан пинал",
