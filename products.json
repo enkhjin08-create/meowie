@@ -256,7 +256,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Пинал pusheen",
@@ -364,7 +364,7 @@
       "desc": "",
       "group": "calm",
       "type": "пинал",
-      "hidden": true
+      "hidden": false
     },
     {
       "title": "Hello kitty бор пинал",
